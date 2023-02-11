@@ -5503,7 +5503,19 @@ yargs@^16.0.3, yargs@^16.2.0:
     y18n "^5.0.5"
     yargs-parser "^20.2.2"
 
+zod-error@^1.1.1:
+  version "1.1.1"
+  resolved "https://registry.yarnpkg.com/zod-error/-/zod-error-1.1.1.tgz#93f28f80a1c63a598c5875680268517f587f6831"
+  integrity sha512-2V93GFtoilz42nqbmr0l874x7Or9JNRF2wIwzC+RQlhRuVKExkdGmTMv9qeurIqR/3IsrNJb/jYRA3BgELfSKg==
+  dependencies:
+    zod "^3.20.2"
+
 zod@^3.14.4:
   version "3.19.1"
   resolved "https://registry.yarnpkg.com/zod/-/zod-3.19.1.tgz#112f074a97b50bfc4772d4ad1576814bd8ac4473"
   integrity sha512-LYjZsEDhCdYET9ikFu6dVPGp2YH9DegXjdJToSzD9rO6fy4qiRYFoyEYwps88OseJlPyl2NOe2iJuhEhL7IpEA==
+
+zod@^3.20.2:
+  version "3.20.6"
+  resolved "https://registry.yarnpkg.com/zod/-/zod-3.20.6.tgz#2f2f08ff81291d47d99e86140fedb4e0db08361a"
+  integrity sha512-oyu0m54SGCtzh6EClBVqDDlAYRz4jrVtKwQ7ZnsEmMI9HnzuZFj8QFwAY1M5uniIYACdGvv0PBWPF2kO0aNofA==
